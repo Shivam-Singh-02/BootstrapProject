@@ -37,3 +37,9 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+
+.header-fix{
+    position:sticky;
+    top: 0 ;
+}
