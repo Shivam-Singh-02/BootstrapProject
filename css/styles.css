@@ -39,7 +39,13 @@ body{
 }
 
 
-.header-fix{
-    position:sticky;
-    top: 0 ;
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.card-header{
+    background-color:rgb(241, 199, 81);
 }
